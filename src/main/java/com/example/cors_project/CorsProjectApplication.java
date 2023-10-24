@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CorsProjectApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CorsProjectApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(CorsProjectApplication.class, args);
+    }
 
 }
